@@ -1,0 +1,7 @@
+{"calibration": "v1", "id": "r0", "instrument": "A-1", "lab": "A", "operator": "a", "repeat": 1, "sample": "s1", "value": 10.1}
+{"calibration": "v1", "id": "r1", "instrument": "A-1", "lab": "A", "operator": "a", "repeat": 2, "sample": "s1", "value": 10.2}
+{"calibration": "v1", "id": "r2", "instrument": "B-1", "lab": "B", "operator": "b", "repeat": 1, "sample": "s1", "value": 10.5}
+{"calibration": "v1", "id": "r3", "instrument": "A-1", "lab": "A", "operator": "a", "repeat": 1, "sample": "s2", "value": 12.1}
+{"calibration": "v1", "id": "r4", "instrument": "B-1", "lab": "B", "operator": "b", "repeat": 1, "sample": "s2", "value": 12.4}
+{"calibration": "v1", "id": "r5", "instrument": "A-1", "lab": "A", "operator": "a", "repeat": 1, "sample": "s3", "value": 11.0}
+{"calibration": "v1", "id": "r6", "instrument": "B-1", "lab": "B", "operator": "b", "repeat": 1, "sample": "s4", "value": 11.4}

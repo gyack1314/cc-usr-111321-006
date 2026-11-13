@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "tables": {
+    "samples": {
+      "file": "boundary-samples.jsonl",
+      "sha256": "84684a3a7b102520860775f7ad3e0109f692f66696aa9c8f8e13fdf8426604c9",
+      "bytes": 202,
+      "rows": 4,
+      "fields": [
+        "id",
+        "parent",
+        "destructive"
+      ]
+    },
+    "measurements": {
+      "file": "boundary-measurements.jsonl",
+      "sha256": "1c596945e9e9cd35d08986931c549235c4b0d5d2b66a4724736c0e3b7eefeb70",
+      "bytes": 896,
+      "rows": 7,
+      "fields": [
+        "id",
+        "sample",
+        "lab",
+        "operator",
+        "instrument",
+        "calibration",
+        "repeat",
+        "value"
+      ]
+    },
+    "tolerances": {
+      "file": "boundary-tolerances.jsonl",
+      "sha256": "b5e102d909c6bc4f5fbde6d5a736298dc1609a44c690752afaed65fc7591c1c6",
+      "bytes": 60,
+      "rows": 1,
+      "fields": [
+        "id",
+        "lower",
+        "upper",
+        "unit"
+      ]
+    }
+  }
+}
